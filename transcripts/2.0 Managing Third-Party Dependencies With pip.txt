@@ -1,6 +1,6 @@
 00:01 In this part of the course, you'll learn how to manage 
 00:04 your Python dependencies with the pip package manager. 
-00:06 Here is where you are int he course right now, 
+00:06 Here is where you are in the course right now, 
 00:09 this is the first main module in the course. 
 00:12 First of all, you'll learn what dependency management is and what it is good for. 
 00:15 Next, you'll get an introduction to pip, the Python package manager. 
@@ -11,4 +11,4 @@
 00:34 Next, you'll learn how to identify and update outdated packages, 
 00:38 and in the final lesson in this module, you'll learn how to 
 00:41 uninstall or remove packages from your system. 
-00:44 Let's start with an introduction to dependency management. 
+00:44 Let's start with an introduction to dependency management.
