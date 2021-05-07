@@ -1,6 +1,6 @@
 # *Managing Python Dependencies With pip and Virtual Environments* — Course Supporting Materials
 
-[![Managing Python Dependencies Welcome Video](https://raw.githubusercontent.com/mikeckennedy/managing-python-dependencies-materials/master/images/video.png)](https://training.talkpython.fm/courses/explore_python_dependencies_course/managing-python-dependencies-with-pip-and-virtual-environments)
+[![Managing Python Dependencies Welcome Video](https://raw.githubusercontent.com/dbader/managing-python-dependencies-materials/master/images/video.png)](https://www.youtube.com/watch?v=8TiCmhwi8dY)
 
 *Managing Python Dependencies* is an organized, step-by-step system for mastering the tools and workflows that will help you reach the next level of productivity as a Python developer.
 
@@ -41,7 +41,7 @@ Here's an overview of the course contents:
 * **Module 5 – Setting Up Reproducible Environments & Application Deploys**
 * **Module 6 – Course Conclusion and Recap**
 
-[Click here to see the full course table of contents](https://training.talkpython.fm/courses/explore_python_dependencies_course/managing-python-dependencies-with-pip-and-virtual-environments#course_outline).
+[Click here to see the full course table of contents](https://dbader.org/products/managing-python-dependencies/).
 
 ## Who Is This Course For?
 
@@ -63,4 +63,4 @@ Here's an overview of the course contents:
 
 ## Join the course
 
-### » [Managing Python Dependencies at Talk Python Training](https://training.talkpython.fm/courses/explore_python_dependencies_course/managing-python-dependencies-with-pip-and-virtual-environments) «
+### » [https://dbader.org/products/managing-python-dependencies/](https://dbader.org/products/managing-python-dependencies/) «
